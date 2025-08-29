@@ -1,0 +1,23 @@
+# Blackhole Assault (Sega Mega-CD) - Traduction Française
+
+Ce projet a pour objectif de traduire en français le jeu **Blackhole Assault** sur Sega Mega-CD.  
+Vous trouverez ici les fichiers nécessaires pour appliquer le patch de traduction.
+
+## 📥 Téléchargement
+- Le patch de traduction est disponible directement sur ce dépôt.  
+- L’ISO du jeu en version originale peut être téléchargée depuis mon site :  
+👉 https://mega-cd-fr-patch-project.odoo.com/blog/actualites-2/blackhole-assault-11
+
+## ⚙️ Installation
+1. Téléchargez l’ISO du jeu depuis mon site.  
+2. Récupérez le patch FR depuis ce dépôt.  
+3. Profitez du jeu traduit en français sur émulateur ou Sega Mega-CD réel.
+
+## 🛠️ Progression
+- [ ] Traduction des menus  
+- [ ] Traduction des sous-titres  
+- [x] Extraction et modification des voix  
+- [ ] Finalisation du patch  
+
+## 🙏 Remerciements
+Merci à tous ceux qui soutiennent la préservation et la traduction des jeux rétro.
